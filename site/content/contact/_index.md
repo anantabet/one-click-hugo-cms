@@ -1,19 +1,10 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
-contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+title: Contact Anantabet
+logo: img/ka03nrwstpmppkb12rs4_4kvcsvb2kcweimsh.png
+contact_entries: []
 ---
+## [A﻿NANTABET](https://anantabet.online) [Bocoran Game Slot Gacor Terbaru PG Soft](https://anantabet.online/)
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+PG Soft mulai mengembangkan game slot online dari tahun 2015. PG Soft sudah menjadi salah satu provider slot online yang cukup menarik, unik, serta lengkap. Perusahaannya pun sudah amat berkembang dan mempunyai 300 karyawan lebih. PG Soft mempunyai 80 koleksi game slot online yang beraneka tema unik dengan tampilan 3D memanjakan mata serta bonus yang melimpah.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+Di PG Soft Anda bisa merasakan pengalaman yang mengasyikan saat bermain game slot berkat tampilan mengagumkan dan bonus yang betul-betul banyak. Bagi kalian yang sedang mencari bocoran game slot terbaru, kami memberikan bocoran game slot terbaru PG Soft supaya Anda bisa memilih game mana yang cocok dengan Anda berdasarkan saran kami yang tentunya di khususkan buat Anda yang menjadi member Anantabet.
